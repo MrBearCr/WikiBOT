@@ -55,49 +55,6 @@ client.on('message', message => {
 
     if(message.content === "hey wiki") {
 
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
-        message.channel.send("spam");
 
 }
 
